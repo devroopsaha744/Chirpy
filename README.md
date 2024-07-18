@@ -20,7 +20,16 @@ pip install -r requuirements.txt
 
 ```
 
+
 Run this following command:
 ```bash 
 streamlit 1_home.py
 ```
+
+
+
+![image-1](project-images/img-1.png)
+![image-2](project-images/img-2.png)
+![image-3](project-images/img-3.png)
+![image-4](project-images/img-4.png)
+![image-5](project-images/img-5.png)
