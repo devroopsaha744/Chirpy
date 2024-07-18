@@ -77,21 +77,21 @@ st.markdown(
 
 st.markdown('''
 
-## Smart Chirpy
+## Smart Chirpy 💡🐦
 Smart Chirpy is an AI-powered chatbot designed to assist users in creating and managing APIs within Sparrow. Acting as a
 virtual assistant, Smart Chirpy provides real-time guidance on API creation, suggesting the most appropriate Sparrow tools to
 resolve specific problems. With its intuitive conversational interface, Smart Chirpy makes backend development and API
 management more accessible and efficient, helping developers navigate through complex tasks with ease.
 
            
-## Nerdy Chirpy
+## Nerdy Chirpy 🤓🐦
 Nerdy Chirpy serves as an intelligent guide for the library and its documentation. Users can select a library, choose a module,
 and receive comprehensive assistance on its functions and classes. By typing in queries, developers can learn about the inputs,
 outputs, and workings of various components. Nerdy Chirpy simplifies the learning curve and resolves problems by providing
 detailed explanations, ensuring developers have all the information they need to effectively utilize Sparrow's resources.
 
            
-## Creative Chirpy
+## Creative Chirpy 🖌️🐦
 Creative Chirpy transforms API documentation by automatically generating detailed docs for your APIs. Users simply provide
 the API function, and Creative Chirpy takes care of the rest, creating thorough and accurate documentation. This feature
 ensures that your API documentation is always up-to-date and easy to understand, saving time and effort while enhancing the
