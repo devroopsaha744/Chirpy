@@ -1,8 +1,8 @@
 import streamlit as st
-from creativity import generate_docs
+from creative_chirpy import generate_docs
 
 
-st.title("🖌️Creative Chirpy")
+st.title("🖌️🐦Creative Chirpy")
 
 if "messages" not in st.session_state.keys():
     st.session_state.messages = [{"role": "assistant", "content": "Hi, I am Creatiive Chirpy. How can I help you?"}]

@@ -98,8 +98,4 @@ def generate_response_3(text):
     response = rag_chain_3.invoke(text)
     return response
 
-#query = "How to set up POST request method?"
-#print(generate_response(query))
-
-#query = "Code to plot a piechart"
 

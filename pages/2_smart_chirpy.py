@@ -1,5 +1,5 @@
 import streamlit as st
-from  querying import generate_response
+from query_smart_chirpy import generate_response
 
 st.title("💡🐦 Smart Chirpy")
 
