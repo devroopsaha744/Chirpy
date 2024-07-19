@@ -7,23 +7,23 @@ Clone the repository on your local machine
 
 Now create a virtual environment and activate it (in the project directory)
 ```bash 
-virtualenv venv
+path\to\your\project\directory>virtualenv venv
 ```
 
 ```bash 
-path\to\your\project\directory\venv\Scipts\activate
+path\to\your\project\directory>venv\Scipts\activate
 ```
 
 Install the dependencies listed in the requirements.txt file
 ```bash
-pip install -r requuirements.txt
+path\to\your\project\directory> pip install -r requuirements.txt
 
 ```
 
 
 Run this following command:
-```bash 
-streamlit 1_home.py
+```bash
+path\to\your\project\directory>streamlit run 1_home.py
 ```
 
 
