@@ -1,5 +1,8 @@
 # Chirpy
-CHIRPY represents an innovative integration of AI solutions that can integrate into Sparrow - Smart API management software. It revolutionizes how developers interact with and manage APIs by introducing features such as Smart Chirpy, Nerdy Chirpy, and Creative Chirpy. 
+It is an AI-powered integration for Sparrow, revolutionizing API management with context-aware chatbots and automated workflows. It leverages the power of RAG, Prompt engineering and 
+Llama3 to streamline developer tasks and enhance API lifestyle. 
+
+
 
 # To use the App
 Clone the repository on your local machine
